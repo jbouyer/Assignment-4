@@ -1,6 +1,6 @@
 #!/bin/bash
 #Program name: Pure Assembly Practice
-#Author: Kyle Chan
+#Author: Jacob Bouyer
 #Title: BASH compile for ASM
 #Execute command: "sh run.sh"
 
