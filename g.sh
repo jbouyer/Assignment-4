@@ -1,6 +1,6 @@
 #!/bin/bash
 #Program name: Pure Assembly Example
-#Author: Kyle
+#Author: Jacob Bouyer
 #Title: BASH compile for ASM
 
 rm *.o
