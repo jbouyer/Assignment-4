@@ -1,7 +1,7 @@
 ;************************************************************************************************************************
 ;Program name: "Pure Assembly Practice".  This function takes in a float, performs the cosine function, and returns a   *
 ;float.                                                                                                                 *
-;Copyright (C) 2022  Kyle Chan                                                                                          *
+;Copyright (C) 2022  Jacob Bouyer                                                                                       *
 ;This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public      *
 ;License version 3 as published by the Free Software Foundation.  This program is distributed in the hope that it will  *
 ;be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR  *
@@ -10,8 +10,8 @@
 ;************************************************************************************************************************
 ;
 ;Author information
-;   Author name: Kyle Chan
-;   Author's email: kchan21@fullerton.edu
+;   Author name: Jacob Bouyer
+;   Author's email: jbouyer@csu.fullerton.edu
 ;
 ;File Purpose:
 ;   File name: itoa
