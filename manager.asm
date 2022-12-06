@@ -1,7 +1,7 @@
 ;************************************************************************************************************************
 ;Program name: "Pure Assembly Practice".  This program will output time in tics, accept a char array, covert the char   *
 ;into a float, convert the float into radians, call cosine, and output the time again in tics.                          *
-;Copyright (C) 2022  Kyle Chan                                                                                          *
+;Copyright (C) 2022  Jacob Bouyer                                                                                         *
 ;This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public      *
 ;License version 3 as published by the Free Software Foundation.  This program is distributed in the hope that it will  *
 ;be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR  *
@@ -10,8 +10,8 @@
 ;************************************************************************************************************************
 ;
 ;Author information
-;   Author name: Kyle Chan
-;   Author's email: kchan21@fullerton.edu
+;   Author name: Jacob Bouyer
+;   Author's email: jbouyer@csu.fullerton.edu
 ;
 ;File Purpose:
 ;   File name: manager
